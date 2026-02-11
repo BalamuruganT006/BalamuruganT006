@@ -5,17 +5,17 @@
   <img src="https://github.com/BalamuruganT006.png" alt="Profile Picture" width="150" height="150" style="border-radius: 50%;">
 </div>
 
-### � Profile Summary Stats
+### 📊 Profile Summary Stats
 
 | 📦 **Repositories Grouped by Language** | ⭐ **Stars per Language** | 📝 **Commits per Language** |
 |----------------------------------------|--------------------------|----------------------------|
-| ![Language Distribution](https://github-readme-stats.vercel.app/api/top-langs/?username=BalamuruganT006&layout=donut-vertical&theme=radical) | ![Stars by Language](https://github-readme-stats.vercel.app/api?username=BalamuruganT006&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=prs,issues,contribs) | ![Commits by Language](https://github-readme-stats.vercel.app/api?username=BalamuruganT006&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=stars,followers,issues,prs) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BalamuruganT006&layout=compact&theme=radical) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BalamuruganT006&show_icons=true&theme=radical&include_all_commits=true&count_private=true) | ![Productive Hours](https://github-readme-stats.vercel.app/api?username=BalamuruganT006&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=stars,issues,prs,contribs) |
 
-| 🏆 **Stars per Repository** | 📈 **Commits per Repository** |
+| 🏆 **Featured Repo** | 📈 **Pinned Repo** |
 |------------------------------|--------------------------------|
-| ![Repo Stars](https://github-readme-stats.vercel.app/api?username=BalamuruganT006&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&custom_title=Most%20Starred%20Repositories&repo=github-readme-stats) | ![Repo Commits](https://github-readme-stats.vercel.app/api?username=BalamuruganT006&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&custom_title=Most%20Active%20Repositories) |
+| ![Repo Card 1](https://github-readme-stats.vercel.app/api/pin/?username=BalamuruganT006&repo=README&theme=radical) | ![Repo Card 2](https://github-readme-stats.vercel.app/api/pin/?username=BalamuruganT006&repo=your-repo-name&theme=radical) |
 
-### �� Streak Stats
+### 🔥 Streak Stats
 
 [![BalamuruganT006 GitHub stats](https://github-readme-stats.vercel.app/api?username=BalamuruganT006)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -24,6 +24,5 @@
 
 ![snake gif](github-user-contribution.svg)
 
-@@ -36,4 +36,3 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BalamuruganT006&theme=radical&hide_border=true)
 
