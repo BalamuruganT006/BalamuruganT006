@@ -14,7 +14,6 @@
 
 <br/>
 
-![image1](image1)
 
 <br/>
 
