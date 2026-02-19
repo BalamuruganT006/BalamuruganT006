@@ -28,20 +28,20 @@
 ```typescript
 const balamurugan = {
     pronouns: "He" | "Him",
-    code: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
+    code: ["JavaScript",  "Python", "Java"],
     askMeAbout: ["web dev", "tech", "app dev", "gaming"],
     technologies: {
         frontEnd: {
-            js: ["React", "Next.js", "Vue"],
-            css: ["Tailwind", "Bootstrap", "Material UI"]
+            js: ["React"],
+            css: [ "Material UI"]
         },
         backEnd: {
-            js: ["Node", "Express", "NestJS"],
+            js: ["Node"],
             python: ["Django", "Flask", "FastAPI"]
         },
-        databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis", "Firebase"],
-        devOps: ["Docker🐳", "CI/CD", "Nginx", "AWS"],
-        misc: ["Firebase", "Socket.IO", "GraphQL"]
+        databases: ["MongoDB", "MySQL","Firebase"],
+        devOps: ["Docker🐳"],
+        misc: ["Firebase", ]
     },
     currentFocus: "Building scalable applications 🚀",
     funFact: "I debug with console.log() 😄"
